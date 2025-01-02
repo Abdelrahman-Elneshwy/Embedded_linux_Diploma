@@ -16,13 +16,13 @@ Summary Report: Generates a detailed report saved to a result.txt file, as well 
 Usage
 To use the script, run it from the terminal, passing the .pcap file as an argument:
 
-bash
-Copy code
-./analyze_traffic.sh /path/to/your/pcap_file.pcap
-Example
-bash
-Copy code
-$ ./analyze_traffic.sh /path/to/traffic.pcap
+# bash
+
+'./analyze_traffic.sh /path/to/your/pcap_file.pcap'
+
+# Example bash
+
+'$ ./analyze_traffic.sh /path/to/traffic.pcap'
 Script Breakdown
 Input Validation:
 
