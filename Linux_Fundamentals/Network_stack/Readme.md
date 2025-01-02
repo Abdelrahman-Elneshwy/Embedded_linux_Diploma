@@ -18,12 +18,13 @@ To use the script, run it from the terminal, passing the .pcap file as an argume
 
 # bash
 
- "./analyze_traffic.sh /path/to/your/pcap_file.pcap"
+  ./analyze_traffic.sh /path/to/your/pcap_file.pcap
 
 # Example bash
 
-'$ ./analyze_traffic.sh /path/to/traffic.pcap'
-Script Breakdown
+  $ ./analyze_traffic.sh /path/to/traffic.pcap
+
+# Script Breakdow
 Input Validation:
 
 The script expects a .pcap file as an argument.
@@ -43,8 +44,8 @@ The same results are saved to a result.txt file for later review.
 Output
 After running the script, you will see the following output in the terminal and the result.txt file:
 
-markdown
-Copy code
+# markdown
+
 ----- Network Traffic Analysis Report -----
 1. Total Packets: 1000
 2. Protocols:
