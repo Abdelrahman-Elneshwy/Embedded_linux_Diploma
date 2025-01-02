@@ -1,8 +1,8 @@
-Network Traffic Analysis Script:
+# Network Traffic Analysis Script:
 
 This script analyzes network traffic from a given .pcap file and generates a summary report of various traffic statistics, including total packet counts, HTTP/HTTPS traffic, and the top 5 source and destination IP addresses.
 
-Prerequisites
+# *Prerequisites*
 tcpdump: A network packet analyzer tool used to capture and analyze network traffic.
 Bash: The script is written for a Bash shell environment.
 Ensure you have the necessary permissions to read the .pcap file.
