@@ -18,7 +18,7 @@ To use the script, run it from the terminal, passing the .pcap file as an argume
 
 # bash
 
-" ./analyze_traffic.sh /path/to/your/pcap_file.pcap
+ "./analyze_traffic.sh /path/to/your/pcap_file.pcap"
 
 # Example bash
 
